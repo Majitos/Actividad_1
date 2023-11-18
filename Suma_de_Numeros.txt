@@ -1,6 +1,7 @@
 Hola Queridos compañeros !
 
-Esta es mi tarea de programación
+Esta es mi primera tarea de programación
+
 
 #include <iostream>
 using namespace std;
