@@ -1,3 +1,22 @@
 Hola Queridos compañeros !
 
 Esta es mi tarea de programación
+
+#include <iostream>
+using namespace std;
+int main (){
+printf("suma de dos numeros");
+	printf("\n");
+	int x, sumDigitos ,y;
+	cout<<"Ingrese un numero entero:";
+	cin>>x;
+	cout>>"ingrese un numero entero:";
+	cin>>y;
+	sumDigitos=x+y
+	cout>>"La suma d elos digitos es:";
+	<<Sumdigitos<<endl;
+return 0;
+}
+
+
+
